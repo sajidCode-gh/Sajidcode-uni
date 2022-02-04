@@ -13,7 +13,7 @@ body {
   display: grid;
   place-content: center;
 
-  background: url("../../dist/images/hero.jpg") bottom no-repeat fixed;
+  background: url("./images/hero.jpg") bottom no-repeat fixed !important;
   background-size: cover;
   position: relative;
   z-index: 0;
